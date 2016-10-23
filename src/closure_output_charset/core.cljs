@@ -10,4 +10,4 @@
 
 (println "Hello world!")
 
-(println "!" bidi/rtlChars_)                                                                                                  ; see https://github.com/google/closure-compiler/issues/1704
+(println "!BUG1704" bidi/rtlChars_)                                                                                           ; see https://github.com/google/closure-compiler/issues/1704
